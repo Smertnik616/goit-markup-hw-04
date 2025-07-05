@@ -873,3 +873,20 @@ footer - start */
 .footer-social-icons-link-svg {
     fill: #f4f4fd;
 }
+
+/* 
+forma  */
+
+.overlay {
+color: #FFFFFF;
+}
+.Sub {
+color: #FFFFFF;
+}
+.inp {
+color: #FFFFFF;
+}
+.butt {
+    background-color: #4D5AE5;
+color: #FFFFFF;
+}
